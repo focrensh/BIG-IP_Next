@@ -1,1 +1,1 @@
-TEST
+Non-official BIG-IP Next Scratchpad docs
